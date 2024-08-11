@@ -16,6 +16,10 @@
 
 -->
 
+Broken web link: [URL Throwing 404](https://google.com/123456)
+Broken relative link to dir: [Nonexistent dir in repo](../not/a/dir)
+Broken relative link to file: [Nonexistent file in repo](../not/a/file.py)
+
 This section provides information about how access control works for Polaris Catalog.
 
 Polaris Catalog uses a role-based access control (RBAC) model in which the Polaris administrator assigns access privileges to catalog roles
