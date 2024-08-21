@@ -16,6 +16,9 @@
 
 # Contributing to Polaris Catalog
 
+[this/relative/linkdoesnt/exist](this/relative/linkdoesnt/exist)
+[https://google.com/pagedoesntexist20240820](https://google.com/pagedoesntexist20240820)
+
 Thank you for considering contributing to the Polaris Catalog. Any contribution (code, test cases, documentation, use cases, ...) is valuable!
 
 This documentation will help you get started. 

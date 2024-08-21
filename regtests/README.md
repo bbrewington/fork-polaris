@@ -18,6 +18,9 @@
 
 # End-to-end regression tests
 
+[this/relative/linkdoesnt/exist](this/relative/linkdoesnt/exist)
+[https://google.com/pagedoesntexist20240820](https://google.com/pagedoesntexist20240820)
+
 ## Run Tests With Docker Compose
 
 Tests can be run with docker-compose by executing
